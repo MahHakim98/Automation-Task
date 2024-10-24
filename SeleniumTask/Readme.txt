@@ -1,7 +1,7 @@
 # Selenium Automation Registration Testing
 
 ## Overview
-This project is a Selenium-based automated testing solution for a registration form. The automation framework uses Java and JUnit, and it incorporates features for dynamic data generation, custom assertions, and reporting through Allure.
+This project is a Selenium automated testing script for a registration form. The automation framework uses Java and JUnit, and it uses features for dynamic data generation, custom assertions, and reporting through Allure.
 
 ## Components
 
@@ -22,7 +22,7 @@ This project is a Selenium-based automated testing solution for a registration f
 ## Limitations
 
 - The tests currently focus only on the registration process and do not cover login functionality.
-- The test framework is primarily designed for web applications; further enhancements are needed for mobile or API testing.
+- The test framework is primarily designed for web applications;
 
 ## Getting Started
 
